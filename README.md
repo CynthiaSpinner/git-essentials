@@ -1,8 +1,3 @@
-# git-essentials
+# My very first repo
 
-## deployment notes
-
-## staging notes
-
-## How to use repo notes
-lorem ipsom
+Kalob is an awesome teacher! I WILL leave him a nice review!
